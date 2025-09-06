@@ -83,15 +83,3 @@ Mi misión es clara: **aplicar Data Science y Desarrollo de Software al sector e
 </div>
 
 ---
-
-## ⚡ Una Curiosidad Eléctrica
-
-```python
-def red_inteligente(evento):
-    if evento == "pico_demanda":
-        return "⚡ Activando almacenamiento distribuido."
-    elif evento == "exceso_generacion":
-        return "🔌 Exportando energía a la nube (literalmente)."
-    else:
-        return "🌱 Consumo equilibrado, transición energética en progreso."
-
